@@ -9,4 +9,4 @@ function tony_virtualenv_prompt_info(){
 }
 
 # disables prompt mangling in virtual_env/bin/activate
-export VIRTUAL_ENV_DISABLE_PROMPT=
+export VIRTUAL_ENV_DISABLE_PROMPT=1
